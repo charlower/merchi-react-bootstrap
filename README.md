@@ -1,4 +1,4 @@
-# This is just Create React App with Bootstrap 5 and Merchi
+# MERCHI-REACT-BOOTSTRAP This is just Create React App with Bootstrap 5 and Merchi
 
 # Getting Started with Create React App
 
