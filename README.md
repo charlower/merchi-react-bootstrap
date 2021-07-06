@@ -2,6 +2,10 @@
 
 This is just Create React App with Bootstrap 5 and Merchi
 
+# Adding styles
+
+Extend Bootstrap 5 styles with your own custom scss in src/style.scss
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
