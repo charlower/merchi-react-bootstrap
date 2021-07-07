@@ -10,8 +10,8 @@ function App() {
   const [productsState, setProductsState] = useState([]);
   const [loading, setLoading] = useState(true);
 
-  useEffect(async () => {
-    await merchi.products.get(onSuccess, onError, parameters); // Fetch Merchi producs
+  useEffect(() => {
+    merchi.products.get(onSuccess, onError, parameters); // Fetch Merchi producs
   }, []);
 
   function onSuccess(products) {
