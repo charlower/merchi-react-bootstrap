@@ -26,10 +26,13 @@ function App() {
   return (
     <div className="vh-100 d-flex justify-content-center align-items-center">
       <div className="d-flex flex-column align-items-center">
-        <h1 className="">Merchi React Bootstrap</h1>
-        <p className="">
+        <h1>Merchi React Bootstrap</h1>
+        <h5>
           Edit <code>src/App.js</code> and save to reload.
-        </p>
+        </h5>
+        <h6 className="mt-4">
+          Example fetching and rendering Merchi products:
+        </h6>
         {loading ? (
           <div className="spinner-border" role="status">
             <span className="visually-hidden">Loading...</span>
