@@ -6,6 +6,14 @@ This is just Create React App with Bootstrap 5 and Merchi
 
 Extend Bootstrap 5 styles with your own custom scss in src/style.scss
 
+# Access Merchi SDK
+
+All Merchi functionality is accessible via the merchi object, initialised in src/index.js.
+
+# Merchi functionaliity
+
+For detailed documentation visit [Merchi documentation](https://merchisdk.github.io/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
